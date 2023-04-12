@@ -1,5 +1,6 @@
 import React from "react";
 import StorefrontIcon from "@mui/icons-material/Storefront";
+import SearchIcon from "@mui/icons-material/Search";
 import "./Header.css";
 
 function Header() {
@@ -8,6 +9,10 @@ function Header() {
       <div className="header_logo">
         <StorefrontIcon className="header_logoImage" fontSize="large" />
         <h2 className="header_logoTitle">eSHOP</h2>
+      </div>
+      <div className="header_search">
+        <input type="text" className="header_searchInput" />
+        <SearchIcon className="header_searchIcon" />
       </div>
     </div>
   );
