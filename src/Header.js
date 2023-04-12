@@ -1,4 +1,4 @@
-import React from "react";
+  import React from "react";
 import StorefrontIcon from "@mui/icons-material/Storefront";
 import SearchIcon from "@mui/icons-material/Search";
 import "./Header.css";
@@ -13,6 +13,10 @@ function Header() {
       <div className="header_search">
         <input type="text" className="header_searchInput" />
         <SearchIcon className="header_searchIcon" />
+      </div>
+      <div className="nav_item">
+        <span className="nav_itemLineOne">Hello Guest</span>
+        <span className="nav_itemLineTow">Sign In</span>
       </div>
     </div>
   );
