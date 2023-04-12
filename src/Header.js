@@ -16,7 +16,11 @@ function Header() {
       </div>
       <div className="nav_item">
         <span className="nav_itemLineOne">Hello Guest</span>
-        <span className="nav_itemLineTow">Sign In</span>
+        <span className="nav_itemLineTwo">Sign In</span>
+      </div>
+      <div className="nav_item">
+        <span className="nav_itemLineOne">Your</span>
+        <span className="nav_itemLineTwo">Shop</span>
       </div>
     </div>
   );
