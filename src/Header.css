@@ -1,0 +1,26 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header_logo {
+  display: flex;
+  align-items: center;
+  color: #ff9f00;
+  margin: 0 25px;
+}
+
+.header_logoImage {
+  margin-right: 10px;
+}
+
+.header_logoTitle {
+  text-decoration: none;
+  border: 0;
+  color: white;
+}
