@@ -66,3 +66,18 @@
   font-weight: 700;
   color: #ff9f00;
 }
+
+
+.itemBasket{
+    display:flex;
+    align-items: center;
+    color: white;
+    margin-right: 50px;
+    margin-left:10px;
+}
+
+.nav_basketCount{
+    margin-left:10px;
+    margin-right:10px;
+    font-size: medium;
+}

@@ -1,6 +1,7 @@
   import React from "react";
 import StorefrontIcon from "@mui/icons-material/Storefront";
 import SearchIcon from "@mui/icons-material/Search";
+import ShoppingBasketIcon from "@mui/icons-material/ShoppingBasket";
 import "./Header.css";
 
 function Header() {
@@ -22,6 +23,12 @@ function Header() {
         <span className="nav_itemLineOne">Your</span>
         <span className="nav_itemLineTwo">Shop</span>
       </div>
+
+      <div className="itemBasket">
+        <ShoppingBasketIcon />
+        <span className="nav_itemLineTwo   nav_basketCount">0</span>
+      </div>
+      
     </div>
   );
 }
