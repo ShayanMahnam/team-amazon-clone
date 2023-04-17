@@ -18,22 +18,24 @@ function Header() {
         <input type="text" className="header_searchInput" />
         <SearchIcon className="header_searchIcon" />
       </div>
-      <Link to="./login" style={{ textDecoration: "none" }}>
+      <div className="nav">
+        <Link to="./login" style={{ textDecoration: "none" }}>
+          <div className="nav_item">
+            <span className="nav_itemLineOne">Hello Guest</span>
+            <span className="nav_itemLineTwo">Sign In</span>
+          </div>
+        </Link>
         <div className="nav_item">
-          <span className="nav_itemLineOne">Hello Guest</span>
-          <span className="nav_itemLineTwo">Sign In</span>
+          <span className="nav_itemLineOne">Your</span>
+          <span className="nav_itemLineTwo">Shop</span>
         </div>
-      </Link>
-      <div className="nav_item">
-        <span className="nav_itemLineOne">Your</span>
-        <span className="nav_itemLineTwo">Shop</span>
+        <Link to="./checkout" style={{ textDecoration: "none" }}>
+          <div className="itemBasket">
+            <ShoppingBasketIcon />
+            <span className="nav_itemLineTwo   nav_basketCount">0</span>
+          </div>
+        </Link>
       </div>
-      <Link to="./checkout" style={{ textDecoration: "none" }}>
-        <div className="itemBasket">
-          <ShoppingBasketIcon />
-          <span className="nav_itemLineTwo   nav_basketCount">0</span>
-        </div>
-      </Link>
     </div>
   );
 }
