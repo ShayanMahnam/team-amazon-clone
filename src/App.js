@@ -6,13 +6,13 @@ import Login from "./Login";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { useState, createContext } from "react";
 
-export const AppContext = createContext;
+export const AppContext = createContext();
 
 function App() {
     const [ basket, setbasket] = useState([]);
   return (
     <div className="App">
-      <AppContext.provider value={{ basket, setbasket}}>
+      <AppContext.Provider value={{ basket, setbasket}}>
         <Router>
           <Header />
           <Routes>
@@ -21,7 +21,7 @@ function App() {
             <Route path="/Login" element={<Login />} />
           </Routes>
         </Router>
-      </AppContext.provider>
+      </AppContext.Provider>
     </div>
   );
 }
