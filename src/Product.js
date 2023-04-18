@@ -1,5 +1,15 @@
+import React, { useContext } from "react";
+import { AppContext } from "./App"
 import "./Product.css";
+
 function Product({ id, title, price, rating, image }) {
+
+  const { basket, setBasket } = useContext(AppContext);
+
+  const addProduct = () => {
+    setBasket([...basket, { id, title, price, rating, image }]);
+  }
+
   return (
     <div className="product-container">
       <div className="product-info">
@@ -18,7 +28,7 @@ function Product({ id, title, price, rating, image }) {
       </div>
       <img src={image} alt="product" />
 
-      <button>Add to Basket</button>
+      <button onClick={addProduct}>Add to Basket</button>
     </div>
   );
 }
