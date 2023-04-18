@@ -9,16 +9,16 @@ import { useState, createContext } from "react";
 export const AppContext = createContext();
 
 function App() {
-    const [ basket, setbasket] = useState([]);
+  const [basket, setBasket] = useState([]);
   return (
     <div className="App">
-      <AppContext.Provider value={{ basket, setbasket}}>
+      <AppContext.Provider value={{ basket, setBasket }}>
         <Router>
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/Checkout" element={<Checkout />} />
-            <Route path="/Login" element={<Login />} />
+            <Route path="/checkout" element={<Checkout />} />
+            <Route path="/login" element={<Login />} />
           </Routes>
         </Router>
       </AppContext.Provider>
