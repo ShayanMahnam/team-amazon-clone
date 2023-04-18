@@ -42,6 +42,7 @@
   border-color: #a88734 #9c7e31 #846a29;
   color: hwb(0 7% 93%);
   padding: 7px 14px;
+  cursor: pointer;
 }
 
 button:hover {
