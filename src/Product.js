@@ -6,9 +6,16 @@ function Product({ id, title, price, rating, image }) {
 
   const { basket, setBasket } = useContext(AppContext);
 
-  const addProduct = () => {
-    setBasket([...basket, { id, title, price, rating, image }]);
-  }
+ const addProduct = () => {
+   const index = basket.findIndex((item) => item.id === id);
+   if (index === -1) {
+     setBasket([...basket, { id, title, price, rating, image, quantity: 1 }]);
+   } else {
+     const newBasket = [...basket];
+     newBasket[index].quantity++;
+     setBasket(newBasket);
+   }
+ };
 
   return (
     <div className="product-container">

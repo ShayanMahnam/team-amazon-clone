@@ -4,15 +4,18 @@ import "./Subtotal.css";
 
 const Subtotal = () => {
   const { basket } = useContext(AppContext);
-  const subtotal = basket.reduce((a, b) => a + b.price, 0).toFixed(2);
+  const subtotal = basket
+    .reduce((total, item) => total + item.price * item.quantity, 0)
+    .toFixed(2);
+  const itemsCount = basket.reduce((total, item) => total + item.quantity, 0);
   return (
     <div className="subtotal">
       <p>
-        Subtotal ({basket?.length} items): <strong>£{subtotal}</strong>
+        Subtotal ({itemsCount} items): <strong>£{subtotal}</strong>
       </p>
       <small className="subtotal__gift">
         <input type="checkbox" />
-        This order contain a gift
+        This order contains a gift
       </small>
       <button>Proceed to Checkout </button>
     </div>
