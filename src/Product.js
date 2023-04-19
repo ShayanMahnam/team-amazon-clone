@@ -19,7 +19,7 @@ function Product({ id, title, price, rating, image }) {
     setShowPopup(true); // show pop-up message
     setTimeout(() => {
       setShowPopup(false); // hide pop-up message after 2 seconds
-    }, 5000);
+    }, 2000);
   };
 
   return (
