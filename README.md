@@ -1,6 +1,6 @@
 # eSHOP (Amazon Clone) London9 CYF
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a simple e-commerce website built using React.js and Firebase
 
@@ -66,6 +66,9 @@ npm start
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LorenaCapraru"><img src="https://avatars.githubusercontent.com/u/108892538?v=4?s=100" width="100px;" alt="Lorena Capraru"/><br /><sub><b>Lorena Capraru</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=LorenaCapraru" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MariAzhdari"><img src="https://avatars.githubusercontent.com/u/80781901?v=4?s=100" width="100px;" alt="Mari Azh"/><br /><sub><b>Mari Azh</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=MariAzhdari" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zobeir-Rigi"><img src="https://avatars.githubusercontent.com/u/108760076?v=4?s=100" width="100px;" alt="Zobeir"/><br /><sub><b>Zobeir</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=Zobeir-Rigi" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OlenaReukova"><img src="https://avatars.githubusercontent.com/u/34659641?v=4?s=100" width="100px;" alt="Olena Reukova"/><br /><sub><b>Olena Reukova</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=OlenaReukova" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
