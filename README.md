@@ -50,8 +50,10 @@ npm start
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://shayanmahnam.netlify.app"><img src="https://avatars.githubusercontent.com/u/95313895?v=4?s=100" width="100px;" alt="Shayan Mahnam"/><br /><sub><b>Shayan Mahnam</b></sub></a><br /><a href="#design-ShayanMahnam" title="Design">🎨</a></td>
+ all-contributors/add-VitalinaKuzmenko
+      <td align="center" valign="top" width="14.28%"><a href="https://shayanmahnam.netlify.app"><img src="https://avatars.githubusercontent.com/u/95313895?v=4?s=100" width="100px;" alt="Shayan Mahnam"/><br /><sub><b>Shayan Mahnam</b></sub></a><br /><a href="#design-ShayanMahnam" title="Design">🎨</a> <a href="#projectManagement-ShayanMahnam" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://vitalina-kuzmenko-portfolio.netlify.app"><img src="https://avatars.githubusercontent.com/u/91835307?v=4?s=100" width="100px;" alt="Vitalina Kuzmenko"/><br /><sub><b>Vitalina Kuzmenko</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=VitalinaKuzmenko" title="Code">💻</a></td>
+
     </tr>
   </tbody>
 </table>
