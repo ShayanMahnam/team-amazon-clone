@@ -1,6 +1,6 @@
 # eSHOP (Amazon Clone) London9 CYF
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a simple e-commerce website built using React.js and Firebase
 
@@ -51,6 +51,7 @@ npm start
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://shayanmahnam.netlify.app"><img src="https://avatars.githubusercontent.com/u/95313895?v=4?s=100" width="100px;" alt="Shayan Mahnam"/><br /><sub><b>Shayan Mahnam</b></sub></a><br /><a href="#design-ShayanMahnam" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://vitalina-kuzmenko-portfolio.netlify.app"><img src="https://avatars.githubusercontent.com/u/91835307?v=4?s=100" width="100px;" alt="Vitalina Kuzmenko"/><br /><sub><b>Vitalina Kuzmenko</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=VitalinaKuzmenko" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
