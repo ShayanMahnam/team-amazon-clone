@@ -1,10 +1,36 @@
 import "./Login.css";
 import { useState } from "react";
 import StorefrontIcon from "@mui/icons-material/Storefront";
+import { auth } from "./Firebase.js";
+import { useNavigate } from "react-router-dom";
 
 function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const navigate = useNavigate();
+
+  const login = (event) => {
+    event.preventDefault();
+    auth
+      .signInWithEmailAndPassword(email, password)
+      .then((auth) => {
+        navigate("/");
+      })
+      .catch((error) => alert(error.message));
+  }
+const register = (e) => {
+    e.preventDefault();
+
+    auth
+      .createUserWithEmailAndPassword(email, password)
+      .then((auth) => {
+        if (auth) {
+          navigate("/");
+        }
+      })
+      .catch((error) => alert(error.message));
+  };
+
 
   return (
     <div className="login_container">
@@ -13,7 +39,7 @@ function Login() {
         <h1>eSHOP</h1>
       </div>
       <div className="form_container">
-        <form>
+        <form onSubmit={login}>
           <h2>Sign-in</h2>
 
           <div className="input-box">
@@ -43,7 +69,7 @@ function Login() {
             Interest-Based Ads Notice.
           </p>
         </form>
-        <button className="register-button" type="button">
+        <button className="register-button" type="button" onClick={register}>
           Create your eShop Account
         </button>
       </div>
