@@ -1,6 +1,6 @@
 # eSHOP (Amazon Clone) London9 CYF
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a simple e-commerce website built using React.js and Firebase
 
@@ -52,7 +52,9 @@ npm start
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://shayanmahnam.netlify.app"><img src="https://avatars.githubusercontent.com/u/95313895?v=4?s=100" width="100px;" alt="Shayan Mahnam"/><br /><sub><b>Shayan Mahnam</b></sub></a><br /><a href="#design-ShayanMahnam" title="Design">🎨</a> <a href="#projectManagement-ShayanMahnam" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://vitalina-kuzmenko-portfolio.netlify.app"><img src="https://avatars.githubusercontent.com/u/91835307?v=4?s=100" width="100px;" alt="Vitalina Kuzmenko"/><br /><sub><b>Vitalina Kuzmenko</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=VitalinaKuzmenko" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BoshraM"><img src="https://avatars.githubusercontent.com/u/113248018?v=4?s=100" width="100px;" alt="BoshraM"/><br /><sub><b>BoshraM</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=BoshraM" title="Code">💻</a> <a href="#design-BoshraM" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BoshraM"><img src="https://avatars.githubusercontent.com/u/113248018?v=4?s=100" width="100px;" alt="BoshraM"/><br /><sub><b>BoshraM</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=BoshraM" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagharHosseinmardi"><img src="https://avatars.githubusercontent.com/u/108956395?v=4?s=100" width="100px;" alt="SagharHosseinmardi"/><br /><sub><b>SagharHosseinmardi</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=SagharHosseinmardi" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bahare09"><img src="https://avatars.githubusercontent.com/u/108987748?v=4?s=100" width="100px;" alt="Bahare"/><br /><sub><b>Bahare</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=Bahare09" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
