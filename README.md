@@ -1,6 +1,6 @@
 # eSHOP (Amazon Clone) London9 CYF
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a simple e-commerce website built using React.js and Firebase
 
@@ -69,6 +69,7 @@ npm start
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OlenaReukova"><img src="https://avatars.githubusercontent.com/u/34659641?v=4?s=100" width="100px;" alt="Olena Reukova"/><br /><sub><b>Olena Reukova</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=OlenaReukova" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SanaAsaf"><img src="https://avatars.githubusercontent.com/u/85436780?v=4?s=100" width="100px;" alt="Sana Asaf"/><br /><sub><b>Sana Asaf</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=SanaAsaf" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
