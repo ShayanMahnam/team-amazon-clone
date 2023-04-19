@@ -1,6 +1,6 @@
 # eSHOP (Amazon Clone) London9 CYF
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a simple e-commerce website built using React.js and Firebase
 
@@ -63,6 +63,7 @@ npm start
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HeniMKH"><img src="https://avatars.githubusercontent.com/u/108895187?v=4?s=100" width="100px;" alt="Hengameh M.Khani"/><br /><sub><b>Hengameh M.Khani</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=HeniMKH" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/karleenmsrichards"><img src="https://avatars.githubusercontent.com/u/108957290?v=4?s=100" width="100px;" alt="Karleen M S Richards"/><br /><sub><b>Karleen M S Richards</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=karleenmsrichards" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LexiisYing"><img src="https://avatars.githubusercontent.com/u/105919943?v=4?s=100" width="100px;" alt="Ying X"/><br /><sub><b>Ying X</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=LexiisYing" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LorenaCapraru"><img src="https://avatars.githubusercontent.com/u/108892538?v=4?s=100" width="100px;" alt="Lorena Capraru"/><br /><sub><b>Lorena Capraru</b></sub></a><br /><a href="https://github.com/ShayanMahnam/team-amazon-clone/commits?author=LorenaCapraru" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
