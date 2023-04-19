@@ -15,6 +15,15 @@
         "design",
         "projectManagement"
       ]
+    },
+    {
+      "login": "VitalinaKuzmenko",
+      "name": "Vitalina Kuzmenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91835307?v=4",
+      "profile": "https://vitalina-kuzmenko-portfolio.netlify.app",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
