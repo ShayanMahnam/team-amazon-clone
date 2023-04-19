@@ -41,6 +41,13 @@ npm start
 
 
 ## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Inspired 
 <a href="https://www.udemy.com/user/sufa-digital/">50 React Project Udemy course by Sufa Digital</a>
